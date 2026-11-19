@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "id": "2026-11-20-01",
+  "title": "游戏回录公告",
+  "content": "公告内容尚未启用。",
+  "level": "info",
+  "link": "",
+  "buttonText": "查看详情",
+  "startAt": "2026-11-20T00:00:00+08:00",
+  "endAt": "2099-12-31T23:59:59+08:00",
+  "minVersionCode": 1,
+  "maxVersionCode": 999999,
+  "showMode": "once",
+  "force": false
+}
