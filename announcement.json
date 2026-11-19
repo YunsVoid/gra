@@ -1,14 +1,14 @@
 {
-  "enabled": false,
-  "id": "2026-11-20-01",
+  "enabled": true,
+  "id": "2026-11-20-02",
   "title": "游戏回录公告",
-  "content": "公告内容尚未启用。",
+  "content": "本次更新加入了远程公告功能。首次启动会显示公告，之后每 24 小时最多显示一次。\n\n设置页背景选择已改为与其他功能一致的样式。",
   "level": "info",
   "link": "",
   "buttonText": "查看详情",
   "startAt": "2026-11-20T00:00:00+08:00",
   "endAt": "2099-12-31T23:59:59+08:00",
-  "minVersionCode": 1,
+  "minVersionCode": 7,
   "maxVersionCode": 999999,
   "showMode": "once",
   "force": false
